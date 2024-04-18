@@ -8,7 +8,7 @@ const Header = () => {
         <div className='header-links'>
           <ul className='links'>
             <li className='link'>
-              <a href='/'>Home</a>
+              <a href='/portfolio'>Home</a>
             </li>
             <li className='link'>
               <a href='#skills'>Skills</a>

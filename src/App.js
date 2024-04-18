@@ -8,7 +8,7 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          <Route path='/' element={<Dashboard />} />
+          <Route path='/portfolio' element={<Dashboard />} />
         </Routes>
         <Footer />
       </Router>
