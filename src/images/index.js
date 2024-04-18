@@ -1,0 +1,13 @@
+export { default as Avatar } from './Programming-amico.svg';
+export { default as CSSIcon } from './css-3.png';
+export { default as Ecommerce } from './e-commerce.png';
+export { default as Email } from './Emails-amico.svg';
+export { default as HTMLIcon } from './html.png';
+export { default as JSIcon } from './js.png';
+export { default as MovieApp } from './movie-app.png';
+export { default as Pokedex } from './pokedex.png';
+export { default as QuizApp } from './quizapp.png';
+export { default as ReactIcon } from './react.png';
+export { default as ToDo } from './todo.png';
+export { default as TypescriptIcon } from './typescript.png';
+export { default as WeatherApp } from './weather-app.png';
