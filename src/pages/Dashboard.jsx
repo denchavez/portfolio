@@ -68,6 +68,7 @@ const Dashboard = () => {
             {SkillData && SkillData.length > 0 ? 
               SkillData.map((skillItem) => (
                 <Skill
+                  key={skillItem.id}
                   name={skillItem.name}
                   image={skillItem.image}
                 />
@@ -81,7 +82,8 @@ const Dashboard = () => {
           <div className='projects-list'>
             {ProjectData && ProjectData.length > 0 ? 
               ProjectData.map((projectItem) => (
-                <Project
+                <Project 
+                  key={projectItem.id}
                   title={projectItem.title}
                   subtitle={projectItem.subtitle}
                   para={projectItem.para}
