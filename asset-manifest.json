@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0b0a79b3.css",
+    "main.js": "/portfolio/static/js/main.d9271883.js",
+    "static/js/453.bb257cf5.chunk.js": "/portfolio/static/js/453.bb257cf5.chunk.js",
+    "static/media/movie-app.png": "/portfolio/static/media/movie-app.78ca78709c568208be7d.png",
+    "static/media/pokedex.png": "/portfolio/static/media/pokedex.36476afc69e5a4e7d4a1.png",
+    "static/media/quizapp.png": "/portfolio/static/media/quizapp.fd5471b71a3a75afe51a.png",
+    "static/media/e-commerce.png": "/portfolio/static/media/e-commerce.04d9222767872612413f.png",
+    "static/media/Programming-amico.svg": "/portfolio/static/media/Programming-amico.f058e4285712261967f4fd3b4382d43c.svg",
+    "static/media/weather-app.png": "/portfolio/static/media/weather-app.1748d05821352f0272bc.png",
+    "static/media/Emails-amico.svg": "/portfolio/static/media/Emails-amico.fdb6f5c1ebbc3da05c33af97eb1fb3e9.svg",
+    "static/media/react.png": "/portfolio/static/media/react.809fed23bcdd686de66e.png",
+    "static/media/todo.png": "/portfolio/static/media/todo.644f4af26079d2ca5998.png",
+    "static/media/html.png": "/portfolio/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/css-3.png": "/portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/typescript.png": "/portfolio/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/js.png": "/portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/portfolio/index.html",
+    "main.0b0a79b3.css.map": "/portfolio/static/css/main.0b0a79b3.css.map",
+    "main.d9271883.js.map": "/portfolio/static/js/main.d9271883.js.map",
+    "453.bb257cf5.chunk.js.map": "/portfolio/static/js/453.bb257cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b0a79b3.css",
+    "static/js/main.d9271883.js"
+  ]
+}
